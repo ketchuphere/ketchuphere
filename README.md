@@ -1,4 +1,4 @@
-<h2 align="left">Keshav Chawda here! and I'm an AI/ML Engineer </h2>
+<h2 align="left">Hey I am Keshav Chawda and I train machines to think :)</h2>
 
 ###
 
