@@ -35,9 +35,6 @@
 
 ---
 
-## 🐍 My Contributions Snake  
-![Snake animation](https://github.com/ketchuphere/ketchuphere/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🔗 Connect With Me  
