@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Keshav Chawda  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast;I+train+machines+to+think+%F0%9F%A4%96;Always+learning+new+things+%F0%9F%93%9A)
 
-📈 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=ketchuphere&color=blue)  
+📈 **Profile Views: ** ![Views](https://komarev.com/ghpvc/?username=ketchuphere&color=blue)  
 
 ---
 
@@ -30,7 +30,6 @@
 
 ## 🚀 Featured Projects  
 - 🔹 [**Machine Learning Playground**](#) – Interactive ML experiments  
-- 🔹 [**Deep Learning Models**](#) – Collection of PyTorch/TensorFlow projects  
 - 🔹 [**Data Science Visualizations**](#) – Cool visual insights with Seaborn & Matplotlib  
 
 ---
