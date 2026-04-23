@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Keshav Chawda
+#  Hey, I'm Keshav Chawda
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+the+Making;Deep+Learning+%7C+MLOps+%7C+Research;Building+Real-World+ML+Systems;Always+Learning+%F0%9F%93%9A" />
@@ -10,27 +10,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎯 I’m an aspiring **AI Engineer** focused on building **real-world machine learning systems** — not just models, but complete products.
-
-* 🧠 Exploring **Deep Learning, LLMs & AI Systems**
-* ⚙️ Interested in **MLOps & Production ML**
-* 📊 Love turning **data into impactful insights**
-* 🏗 Currently building **end-to-end ML projects**
+ I’m an **AI Engineer** focused on building **real-world machine learning systems** not just models, but complete products.
 
 ---
 
-## 🧠 What I’m Working On
+## What I’m Working On
 
-* 🔬 Deep Learning architectures & optimization
-* 🤖 Real-world AI applications (Recommender Systems, Prediction Engines)
-* ⚡ Scalable ML pipelines (training → deployment)
-* 📦 Turning ML projects into **startup-level products**
+*  Real world AI applications (Recommender Systems, Prediction Engines)
+*  Scalable ML pipelines (training → deployment)
+*  Turning ML projects into **startup-level products**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,docker,git,github,vscode" />
@@ -38,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ketchuphere&show_icons=true&theme=radical&cache_seconds=86400" height="165"/>
@@ -51,39 +45,19 @@
 
 ---
 
-## 🚀 Featured Projects
+##  What Makes Me Different
 
-### 🔹 ChurnScope (Production ML System)
-
-* End-to-end churn prediction pipeline
-* Ensemble models + explainability
-* Built with scalability & deployment in mind
-
-### 🔹 ML Playground
-
-* Interactive experiments for ML concepts
-* Helps visualize model behavior
-
-### 🔹 Data Visualization Engine
-
-* Advanced insights using Matplotlib & Seaborn
-* Focus on storytelling with data
+* I don’t just build models  I build **systems**
+* I focus on **real world impact, not just accuracy**
+* I think like a **developer + data scientist + product builder**
 
 ---
 
-## 🧩 What Makes Me Different
+##  Current Goals
 
-💡 I don’t just build models — I build **systems**
-💡 I focus on **real-world impact, not just accuracy**
-💡 I think like a **developer + data scientist + product builder**
-
----
-
-## 📈 Current Goals
-
-* 🚀 Build **Fintech-level AI products**
-* 📚 Master **Deep Learning + System Design**
-* 🌍 Contribute to **open-source ML projects**
+*  Build **Startup-level AI products**
+*  Master **Deep Learning + System Design**
+*  Contribute to **open-source ML projects**
 
 ---
 
@@ -106,9 +80,9 @@
 
 ---
 
-## 🎮 Fun Fact
+## Fun Fact
 
-> “When I’m not coding, I’m probably debugging why my code isn’t working… again.” 🐞
+> “When I’m not coding, I’m probably debugging why my code isn’t working… again.” 
 
 ---
 
