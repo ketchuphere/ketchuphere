@@ -12,14 +12,14 @@
 
 ##  About Me
 
- I’m an **AI Engineer** focused on building **real-world machine learning systems** not just models, but complete products.
+ I’m an **AI Engineer** focused on building **real world machine learning systems** not just models, but complete products.
 
 ---
 
 ## What I’m Working On
 
 *  Real world AI applications (Recommender Systems, Prediction Engines)
-*  Scalable ML pipelines (training → deployment)
+*  Scalable ML pipelines (training to deployment)
 *  Turning ML projects into **startup-level products**
 
 ---
@@ -55,9 +55,9 @@
 
 ##  Current Goals
 
-*  Build **Startup-level AI products**
+*  Build **Startup level AI products**
 *  Master **Deep Learning + System Design**
-*  Contribute to **open-source ML projects**
+*  Contribute to **open source ML projects**
 
 ---
 
