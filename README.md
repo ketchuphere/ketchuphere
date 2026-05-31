@@ -67,7 +67,7 @@ I'm an **AI Engineer** building production-grade systems at the intersection of 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔍 ChurnScope](https://github.com/ketchuphere/Customer-Churn-Prediction) | End-to-end churn prediction system — ensemble ML + FastAPI + React UI | Python · FastAPI · sklearn · React · Vite |
+| [🔍 NL2SQL](https://github.com/ketchuphere/NL2SQL-Assistant) | A production-grade Natural Language to SQL system built with a Retrieval-Augmented Generation architecture | Python · Streamlit · PostgreSQL · Qdrant · Docker |
 | [🛡️ NIDS (Collab)](https://github.com/randomPlayerHere/nids-team) | 1D-CNN network intrusion detection on CICIDS2017 dataset | Python · TensorFlow · Deep Learning |
 | 🤖 Agentic RAG  | LangGraph multi-agent RAG pipeline with memory & tool-use | LangGraph · ChromaDB · FastAPI |
 | 📊 MLOps Pipeline  | Automated training, experiment tracking, and model serving | MLflow · Docker · GitHub Actions |
