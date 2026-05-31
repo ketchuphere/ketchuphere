@@ -69,7 +69,7 @@ I'm an **AI Engineer** building production-grade systems at the intersection of 
 |---|---|---|
 | [🔍 NL2SQL](https://github.com/ketchuphere/NL2SQL-Assistant) | A production-grade Natural Language to SQL system built with a Retrieval-Augmented Generation architecture | Python · Streamlit · PostgreSQL · Qdrant · Docker |
 | [🛡️ NIDS (Collab)](https://github.com/randomPlayerHere/nids-team) | 1D-CNN network intrusion detection on CICIDS2017 dataset | Python · TensorFlow · Deep Learning |
-| [FIFA World Cup 2026 match outcomes](https://github.com/ketchuphere/fifa-world-cup-winner-prediction) |  | LightGBM - scikit-learn - FastAPI - Streamlit - Pytest|
+| [FIFA World Cup 2026 match winners](https://github.com/ketchuphere/fifa-world-cup-winner-prediction) | An end to end machine learning pipeline for predicting FIFA World Cup 2026 match outcomes | LightGBM - scikit-learn - FastAPI - Streamlit - Pytest|
 | [Customer Churn Prediction](https://github.com/ketchuphere/Customer-Churn-Prediction)  | Customer churn prediction using a Ensembling Methods helps identify customers likely to leave a service. | Python - Ensembling Methods - FastAPI |
 
 > *Stars and feedback on repos are always appreciated!*
