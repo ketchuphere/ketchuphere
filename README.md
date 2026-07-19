@@ -96,16 +96,22 @@ Final-year Computer Science student with a passion for building **production-gra
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketchuphere&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketchuphere&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketchuphere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketchuphere&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ketchuphere&theme=tokyonight&hide_border=true)
+<br>
 
+<img src="https://streak-stats.demolab.com?user=ketchuphere&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketchuphere&theme=tokyo-night&hide_border=true" />
+
+</div>
 </div>
 
 ---
