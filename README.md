@@ -82,12 +82,15 @@ Final-year Computer Science student with a passion for building **production-gra
 
 ## Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [🔍 NL2SQL](https://github.com/ketchuphere/NL2SQL-Assistant) | A production-grade Natural Language to SQL system built with a Retrieval-Augmented Generation architecture | Python · Streamlit · PostgreSQL · Qdrant · Docker |
-| [🛡️ NIDS (Collab)](https://github.com/randomPlayerHere/nids-team) | 1D-CNN network intrusion detection on CICIDS2017 dataset | Python · TensorFlow · Deep Learning |
-| [FIFA World Cup 2026 match winners](https://github.com/ketchuphere/fifa-world-cup-winner-prediction) | An end to end machine learning pipeline for predicting FIFA World Cup 2026 match outcomes | LightGBM - scikit-learn - FastAPI - Streamlit - Pytest|
-| [Customer Churn Prediction](https://github.com/ketchuphere/Customer-Churn-Prediction)  | Customer churn prediction using a Ensembling Methods helps identify customers likely to leave a service. | Python - Ensembling Methods - FastAPI |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[BTFIv1](https://github.com/ketchuphere/BTFIv1)** | End-to-end traffic intelligence platform that predicts congestion, queue lengths, and travel delays while recommending operational responses through machine learning. Includes a complete ML pipeline, REST APIs, and an interactive analytics dashboard. | **Python · XGBoost-NetworkX-RandomForest Regressor · FastAPI · Streamlit · Scikit-learn · Docker** |
+| **[NL2SQL Assistant](https://github.com/ketchuphere/NL2SQL-Assistant)** | Production-ready **RAG-powered Text-to-SQL** system that converts natural language into SQL queries using semantic retrieval, vector search, and LLMs. Built with a modular architecture and containerized deployment. | **Python · FastAPI · PostgreSQL · Qdrant · Docker · RAG · LLMs** |
+| ** [EcoLens](https://github.com/ketchuphere/EcoLens)** | AI-powered sustainability assistant that analyzes products and environmental data to help users make eco-friendly decisions using intelligent recommendations and modern AI workflows. | **Python · FastAPI · LLMs · Computer Vision · RAG · Streamlit** :contentReference[oaicite:0]{index=0} |
+| **[CollateralOS](https://github.com/ketchuphere/CollateralOS)** | AI-native collateral intelligence platform for secured lending with valuation prediction, fraud detection, underwriting support, and an AI copilot for financial institutions. | **Python · FastAPI · Agentic AI · RAG · Qdrant · PostgreSQL · Docker** |
+| **[FIFA World Cup 2026 Match Prediction](https://github.com/ketchuphere/fifa-world-cup-winner-prediction)** | End-to-end machine learning pipeline for predicting FIFA World Cup match outcomes with automated preprocessing, model training, REST APIs, testing, and a web dashboard. | **LightGBM · Scikit-learn · FastAPI · Streamlit · Pytest** |
+| **[Network Intrusion Detection System](https://github.com/randomPlayerHere/nids-team)** | Deep learning-based network intrusion detection using a 1D-CNN trained on the CICIDS2017 dataset for multiclass cyberattack classification. *(Collaborative Project)* | **Python · TensorFlow · Deep Learning** |
+| **[Customer Churn Prediction](https://github.com/ketchuphere/Customer-Churn-Prediction)** | Machine learning application that predicts customer churn using ensemble learning techniques and exposes real-time predictions through REST APIs. | **Python · Scikit-learn · Ensemble Learning · FastAPI** |
 
 > *Stars and feedback on repos are always appreciated!*
 
