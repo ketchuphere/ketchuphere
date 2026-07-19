@@ -28,12 +28,11 @@
 
 ## About Me
 
-I'm an **AI Engineer** building production-grade systems at the intersection of **Agentic AI, Generative AI, and MLOps**. My work focuses on turning ML research into real, deployable software end to end. I care about system design, not just model accuracy.
+Final-year Computer Science student with a passion for building **production-grade AI systems**. I develop end-to-end applications using **Machine Learning, LLMs, Agentic AI, and MLOps**, focusing on scalable architectures, intelligent automation, and real-world deployment. I'm continuously exploring the engineering challenges behind reliable AI systems—from model development to infrastructure and production.
 
-- Currently building: **RAG pipelines, Agentic AI workflows, and full-stack ML products**
-- Exploring: **LangGraph multi-agent systems, vector databases, and scalable inference**
-- Background: Deep Learning · MLOps · Backend Engineering · Full-Stack AI Apps
-
+-  Building: **Agentic AI applications, RAG pipelines, and Full-Stack AI products**
+-  Exploring: **LangGraph, Multi-Agent Systems, Vector Databases, LLMOps, and AI Infrastructure**
+-  Focus Areas: **Machine Learning · Deep Learning · MLOps · Backend Engineering · Distributed AI Systems**
 ---
 
 ## Tech Stack
