@@ -116,16 +116,6 @@ Final-year Computer Science student with a passion for building **production-gra
 
 ---
 
-## What I'm Working Toward
-
-```text
-AI Engineering        ████████████████░░░░   80%
-Agentic Systems       ████████████░░░░░░░░   60%
-MLOps / Deployment    ██████████░░░░░░░░░░   50%
-System Design         ████████░░░░░░░░░░░░   40%
-Open Source           ██████░░░░░░░░░░░░░░   30%  ← actively improving
-```
-
 ---
 
 <div align="center">
