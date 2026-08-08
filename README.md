@@ -3,7 +3,6 @@
 <!-- BANNER: replace with your Canva/Figma banner or use this typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Keshav+Chawda+%E2%80%94+AI+Engineer;Building+Agentic+AI+%7C+RAG+%7C+MLOps;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+GenAI)](https://github.com/ketchuphere)
 
-<img src="https://komarev.com/ghpvc/?username=ketchuphere&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 ## 🔗 Connect With Me
 
