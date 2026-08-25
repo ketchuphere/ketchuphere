@@ -93,21 +93,21 @@ Final-year Computer Science student with a passion for building **production-gra
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/ketchuphere">
-  <img src="https://img.shields.io/github/followers/ketchuphere?label=Followers&style=for-the-badge&logo=github" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketchuphere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<a href="https://github.com/ketchuphere?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ketchuphere?affiliations=OWNER&style=for-the-badge&logo=github" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketchuphere&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<a href="https://github.com/ketchuphere">
-  <img src="https://img.shields.io/github/created-at/ketchuphere?style=for-the-badge&logo=github" />
-</a>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ketchuphere&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketchuphere&theme=tokyo-night&hide_border=true" />
 
 </div>
 ---
