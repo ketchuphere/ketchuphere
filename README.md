@@ -105,12 +105,7 @@ Final-year Computer Science student with a passion for building **production-gra
 
 <img src="https://streak-stats.demolab.com?user=ketchuphere&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketchuphere&theme=tokyo-night&hide_border=true" />
-
 </div>
-
 ---
 
 ---
