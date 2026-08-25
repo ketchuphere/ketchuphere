@@ -93,16 +93,20 @@ Final-year Computer Science student with a passion for building **production-gra
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
 <a href="https://github.com/ketchuphere">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketchuphere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://img.shields.io/github/followers/ketchuphere?label=Followers&style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/ketchuphere?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ketchuphere?affiliations=OWNER&style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/ketchuphere">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketchuphere&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/created-at/ketchuphere?style=for-the-badge&logo=github" />
 </a>
 
 </div>
