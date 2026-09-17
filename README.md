@@ -4,22 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Keshav+Chawda+%E2%80%94+AI+Engineer;Building+Agentic+AI+%7C+RAG+%7C+MLOps;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+GenAI)](https://github.com/ketchuphere)
 
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.kaggle.com/keshavchawda">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ketchup__/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="mailto:ketchupirl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keshav-chawda-471a54275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 </div>
 
